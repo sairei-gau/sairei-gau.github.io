@@ -123,9 +123,10 @@ section .container,
 }
 
 .abel,
-section h2
+section h2,
 #skills h3,
-#works .works-box a .works-box-inner .button-readmore
+#works .works-box a .works-box-inner .button-readmore,
+#contact h2
 {
     font-family: 'Abel', sans-serif;
 }
